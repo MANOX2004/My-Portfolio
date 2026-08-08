@@ -382,7 +382,7 @@ const degrees = {
     {
       title: "Indian Institute of Information Technology Kurnool",
       subtitle: "B.Tech. in Computer Engineering",
-      logo_path: "iiitk_logo.png",
+      logo_path: "plymouth.png",
       alt_name: "IIITDM Kurnool",
       duration: "2016 - 2020",
       descriptions: [
@@ -395,7 +395,7 @@ const degrees = {
     {
       title: "Indiana University Bloomington",
       subtitle: "M.S. in Computer Science",
-      logo_path: "iu_logo.png",
+      logo_path: "nsbm.png",
       alt_name: "Indiana University Bloomington",
       duration: "2021 - 2023",
       descriptions: [
