@@ -87,12 +87,12 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Data Science & AI",
+      title: "Software Engineering",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-        "⚡ Experience of working with Computer Vision and NLP projects",
-        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
+        "⚡ Building scalable, end-to-end software solutions following industry-standard design patterns and architectures",
+        "⚡ Strong foundation in full-stack development, with a focus on robust backend systems and clean, maintainable code.",
+        "⚡ Passionate about developing sustainable software that bridges technical complexity with intuitive user experiences.",
       ],
       softwareSkills: [
         {
