@@ -9,11 +9,11 @@ const settings = {
 const seo = {
   title: "Manoj's Portfolio",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "A visionary builder driven by a deep passion for engineering end-to-end, scalable ecosystems that bridge cutting-edge technology with human impact to shape a sustainable future.",
   og: {
-    title: "Ashutosh Hathidara Portfolio",
+    title: "Manoj Senevirathna Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "http://manojsenevirathna.com/",
   },
 };
 
