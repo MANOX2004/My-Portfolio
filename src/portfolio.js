@@ -746,7 +746,7 @@ const contactPageData = {
     postalCode: "95129",
     streetAddress: "Saratoga Avenue",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://maps.app.goo.gl/NvYZqa34Wye4tpS17",
+    location_map_link: "https://maps.app.goo.gl/Z1arrUx1r6iQc9Fu8",
   },
   phoneSection: {
     title: "",
